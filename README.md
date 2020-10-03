@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
+- [Lab: video link](https://youtu.be/6wQwnTIBD1Y)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
